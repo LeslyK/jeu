@@ -1,0 +1,9 @@
+body{
+	background-color: blue;
+}
+h1, p{
+	text-align: center;
+}
+h1{
+	background: white;
+}
